@@ -19,4 +19,7 @@ If you need the basics of web development, here are some tutorials that you can 
 ####Cheat sheets:
 * [Top 100 Web Development Cheat Sheets](http://www.studyweb.com/the-cheat-sheet-cheat-sheet-top-100-lists-of-web-development-cheat-sheets/)
 * [Master cheat sheet for Twitter Bootstrap 3 - Creative Alive](http://creativealive.com/master-cheat-sheet-twitter-bootstrap-3-pdf-download/) 
-* [Github Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf  )
+* [Github Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+* [Git-it Guide](http://jlord.us/git-it/index.html) - used for FreeCodeCamp
+
+Revised: 6/12/2016
