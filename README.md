@@ -12,9 +12,9 @@ Below you will find a partial resource list for Web Developers.
 If you need the basics of web development, here are some tutorials that you can try:
 
 * [W3Schools Online Web Tutorials](http://www.w3schools.com/) 
-* [HTML Goodies: Graphics and HTML Tutorials] (http://www.htmlgoodies.com/tutorials/) 
-* [The JavaScript Tutorial | JavaScript Tutorial] (http://javascript.info/) 
-* [Sthurlow.com - Home (Python Tutorial)] (http://sthurlow.com/python/)
+* [HTML Goodies: Graphics and HTML Tutorials](http://www.htmlgoodies.com/tutorials/) 
+* [The JavaScript Tutorial | JavaScript Tutorial](http://javascript.info/) 
+* [Sthurlow.com - Home (Python Tutorial)](http://sthurlow.com/python/)
 
 ####Cheat sheets:
 * [Top 100 Web Development Cheat Sheets](http://www.studyweb.com/the-cheat-sheet-cheat-sheet-top-100-lists-of-web-development-cheat-sheets/)
